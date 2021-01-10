@@ -29,7 +29,7 @@ Saya berasal dari Ds. Kejoyo Kec. Kabat yang ada di Kota Banyuwangi. Setelah mel
 Salam kenal nama saya adi dari purwakarta, awal mula belajar pemeroggraman karena tertarik dengan website google dan akhirnya saya belajar bagaimana cara mambuat website dan hal yang selalu saya pikirkan kenpa game zaman dulu tertis kok bisa di mainkan di hp android dari dua hal ini akhirnya saya belajar pemerograman!
 
 saya masih belajar java, javascript, CSS dan HTML.
-buat up kodding sukses terus dan jangan lupa upload video!
+buat Upkodding sukses terus dan jangan lupa upload video!
 
 [https://github.com/Apratama272](https://github.com/Apratama272)
 
