@@ -2,9 +2,15 @@
 
 Kita semua tahu bahwa menjadi programmer itu tidak mudah, perlu banyak latihan, kesabaran dan kerja keras. Tapi apapun latar belakang kita, semua bisa belajar pemrograman dan menjadi programmer.
 
-Nah buat kalian yang lagi belajar pemrograman atau sudah menjadi seorang programmer/developer dan ingin menginspirasi lebih banyak lagi anak muda Indonesia menjadi programmer, ayo daftarkan **Nama**, **Tentang** dan **Link Github** kalian dibawah untuk menunjukkan kepada seluruh dunia bahwa kalian siap bekerja keras untuk menggapai mimpi menjadi programmer dan akan menggunakan keahlian yang dimiliki untuk memberi manfaat kepada nusa dan bangsa tercinta ini.
+Nah buat kalian yang lagi belajar pemrograman atau sudah menjadi seorang programmer/developer dan ingin menginspirasi lebih banyak lagi anak muda Indonesia menjadi programmer, ayo daftarkan **Nama**, **Tentang** dan **Link Github** kamu dibawah untuk menunjukkan kepada seluruh dunia bahwa kalian siap bekerja keras untuk menggapai mimpi menjadi programmer dan akan menggunakan keahlian yang dimiliki untuk memberi manfaat kepada nusa dan bangsa tercinta ini.
 
-## Ingin menambahkan profil kalian?
+## Ini repo apa sih?
+
+Oh iya, buat yang belum tau tonton dulu ya video ini [Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub](https://youtu.be/V2A07tTjVnY). Jadi repo ini mengajak semuanya untuk mulai berkontribusi ke proyek-proyek open source atau sumber terbuka. Bisa berkontribusi ke proyek lain yang sudah ada, atau bisa jadikan repo ini sebagai ajang kenalan dan latihan kita berkontribusi di Github.
+
+Seperti dilihat daftar profile dibawah ini, _kamu tidak sendirian belajar pemrograman_, saya juga belajar, temen yang lain juga lagi belajar. _Saya bisa jadi programmer maka kamu juga pasti akan bisa_. [[eka](https://github.com/ekaputra07)]
+
+## Ingin menambahkan profil kamu?
 
 Tinggal copy dan ikuti format yang dibawah ini trus tambahkan di bawah profile yang lainnya, (_Inget ya formatnya [Markdown](https://commonmark.org/help/), bukan HTML_) 🙂 
 
