@@ -15,3 +15,10 @@ Petualanganpun terus berlanjut setelah memberanikan diri untuk menjadi seorang f
 [https://github.com/ekaputra07](https://github.com/ekaputra07)
 
 <hr/>
+Nama M. Asraf Takayuma
+
+Saya berasal dari Ds. Kejoyo Kec. Kabat yang ada di Kota Banyuwangi. Setelah melihat channel Yt UpKoding  saya semakin termotivasi untuk lebih giat lagi belajar mengenai pemrograman karena untuk menjadi seorang Developer sendiri kita harus giat belajar dan latihan. Dimana semulanya saya masih bermalas-malasan dalam belajar pemrograman, Alhamdulillah kini saya mulai lebih giat dan sering latihan. Saya ingin menjadi seorang FRONT END DEVELOPER dan sekaran mulai belajar HTML, CSS dan JAVASCRIPT. Semoga Channel Yt UpKoding semakin SUKSES dan JAYA.
+
+link GitHub https://github.com/TakayumAja
+
+<hr/>
