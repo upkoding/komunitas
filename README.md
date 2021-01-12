@@ -52,3 +52,13 @@ buat UpKoding sukses terus dan jangan lupa upload video!
 [https://github.com/Apratama272](https://github.com/Apratama272)
 
 <hr/>
+
+### Rizky Darmawan
+
+Hai, Saya Rizky Darmawan asal Binjai Sumatera Utara yaitu kota yang terkenal dengan buah Rambutan. Saya seorang junior web developer disalah satu perusahan jasa kiriman dimedan. Saya seorang yang suka penasaran dan coding membuat saya selalu penasaran dan memberikan kepuasan ketika penasaran itu terpecahkan. Oiya saya juga mempunyai catatan pribadi yang saya jadikan sebagai blog yaitu [Jabutech.com](https://www.jabutech.com/). 
+
+Saya berharap catatan saya ini juga berguna untuk kita semua. Saya punya cita - cita bekerja fulltime menjadi seorang programer profesional dan seorang freelancer profesional. Semoga Allah memudahkan langka saya ya. Ammin !!
+
+Terima kasih juga kepada UpKoding, motivasinya sangat membuat saya pribadi menajadi bersemangat ketika sedang stuck. Selalu upload video yang membuat kami para pemula menjadi selalu bersemangat mas Eka.
+
+[https://github.com/jabutech](https://github.com/jabutech)
