@@ -76,3 +76,13 @@ Halo nama saya samuel, kini saya belum bekerja dan masih fokus belajar menjadi s
 Sekarang saya sedang belajar mengembangkan sebuah <i>game</i> untuk <i>giveaway</i> dimana pada <i>game</i> ini saya buat untuk para pegiat sosial media yang ingin <i>giveaway</i> hadiah kepada pengikutnnya hehehe masih angan-angan saja (coba aja dulu) atau masih keinginan. Sekalian mengembangkan <i>project</i> tersebut keseharian saya juga biasa menulis untuk melatih <i>skill fast typing</i> disini <a href="https://codinglan.blogspot.com"><b>codinglan</b></a> <i>Know me better</i> <a href="https://samuelpasaribu.github.io"><b>READ MORE</b></a>
 
 [https://github.com/samuelpasaribu](https://github.com/samuelpasaribu)
+
+<hr/>
+
+### Rizal Gente
+
+Assalamualaikum, Saya mahasiswa teknik elektro di universitas ichsan gorontalo, saat ini sedang fokus belajar bahasa pemograman python dan frameworknya bercita-cita menjadi programer python terutama dalam bidang machine learning, o iya, asal saya dari kabupaten buol, provinsi sulawesi tengah.<br>
+
+[https://github.com/Rizalgente](https://github.com/Rizalgente)
+
+<hr/>
