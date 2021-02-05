@@ -92,3 +92,9 @@ Assalamualaikum, Saya mahasiswa teknik elektro di universitas ichsan gorontalo, 
 Salam damai dari Bali, Perkenalkan saya Made Gunawan keseharian sebagai karyawan swasta disalah satu industri kerajinan di Ubud-Bali, Pemula dan sangat tertarik untuk belajar bahasa pemograman Webbased App dan Golang, mohon bimbingan dari teman-teman semua disini. Salam kenal dan respect buat @ekaputra
 
 [https://github.com/madegun](http://github.com/madegun)
+
+### Nazir Bahrul Ulum
+
+Halo, Perkenalkan nama saya Nazir Bahrul Ulum. Saya merupakan lulusan SMK tahun 2020, walaupun saya hanya lulusan SMK saya yakin dapat menyaingi lulusan universitas dengan skill yang saya miliki. Saya saat ini masih tetap belajar mengenai pemrograman, fokus terhadap teknologi Front End Developer. Saya memiliki cita-cita menjadi seorang Front End Developer dan juga mentor. 
+
+[https://github.com/devnazir](http://github.com/devnazir)
