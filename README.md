@@ -98,3 +98,10 @@ Salam damai dari Bali, Perkenalkan saya Made Gunawan keseharian sebagai karyawan
 Halo, Perkenalkan nama saya Nazir Bahrul Ulum. Saya merupakan lulusan SMK tahun 2020, walaupun saya hanya lulusan SMK saya yakin dapat menyaingi lulusan universitas dengan skill yang saya miliki. Saya saat ini masih tetap belajar mengenai pemrograman, fokus terhadap teknologi Front End Developer. Saya memiliki cita-cita menjadi seorang Front End Developer dan juga mentor. 
 
 [https://github.com/devnazir](http://github.com/devnazir)
+
+### Giovanni Kurniawan
+
+Halo, Perkenalkan nama saya Giovanni Kurniawan. Saya merupakan Mahasiswa Universitas Multimedia Nusantara , Saya saat ini masih tetap belajar mengenai pemrograman, fokus terhadap teknologi Front End Developer dan Back End Developer. Saya memiliki harapan suatu saat nanti ilmu yang saya pelajari akan berguna bagi banyak orang.  
+
+[https://github.com/giovannikurniawan](https://github.com/giovannikurniawan)
+
