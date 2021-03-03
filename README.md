@@ -105,3 +105,18 @@ Halo, Perkenalkan nama saya Giovanni Kurniawan. Saya merupakan Mahasiswa Univers
 
 [https://github.com/giovannikurniawan](https://github.com/giovannikurniawan)
 
+
+
+### ALDI86
+
+Salam Kenal nama saya Renaldi. Asal dari surabaya, Saat ini saya belajar pemograman yang fokus ke front-end . Semoga apapun yang dicita-citakan selagi itu baik akan tercapai.  
+
+[https://github.com/informatika3052](https://github.com/informatika3052)
+```
+
+<hr/>
+
+
+
+
+
