@@ -93,15 +93,32 @@ Salam damai dari Bali, Perkenalkan saya Made Gunawan keseharian sebagai karyawan
 
 [https://github.com/madegun](http://github.com/madegun)
 
+
+<hr/>
+
 ### Nazir Bahrul Ulum
 
 Halo, Perkenalkan nama saya Nazir Bahrul Ulum. Saya merupakan lulusan SMK tahun 2020, walaupun saya hanya lulusan SMK saya yakin dapat menyaingi lulusan universitas dengan skill yang saya miliki. Saya saat ini masih tetap belajar mengenai pemrograman, fokus terhadap teknologi Front End Developer. Saya memiliki cita-cita menjadi seorang Front End Developer dan juga mentor. 
 
 [https://github.com/devnazir](http://github.com/devnazir)
 
+<hr/> 
+
 ### Giovanni Kurniawan
 
 Halo, Perkenalkan nama saya Giovanni Kurniawan. Saya merupakan Mahasiswa Universitas Multimedia Nusantara , Saya saat ini masih tetap belajar mengenai pemrograman, fokus terhadap teknologi Front End Developer dan Back End Developer. Saya memiliki harapan suatu saat nanti ilmu yang saya pelajari akan berguna bagi banyak orang.  
 
 [https://github.com/giovannikurniawan](https://github.com/giovannikurniawan)
+
+<hr/>
+
+### Renaldi D.
+
+Salam kenal semua , Saya Renaldi dari Surabaya . Saat ini masih proses belajar menjadi Front-end sampai materi HTML,CSS. Semoga yang sedang belajar seperti saya bisa tercapai cita-cita nya dan bisa membanggakan kedu oarng tua. BY : SANGSLOOP.
+
+[https://github.com/informatika3052](https://github.com/informatika3052)
+
+
+<hr/>
+
 
