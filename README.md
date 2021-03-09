@@ -12,7 +12,7 @@ Seperti dilihat daftar profile dibawah ini, _kamu tidak sendirian belajar pemrog
 
 ## Ingin menambahkan profil kamu?
 
-Pertama, **tolong di Like dulu repo ini ya hehe**, trus tinggal copy dan ikuti format yang dibawah ini trus tambahkan di bawah profile yang lainnya, (_Inget ya formatnya [Markdown](https://commonmark.org/help/), bukan HTML_) 🙂 
+Pertama, **tolong di Like dulu repo ini ya hehe**, trus tinggal copy dan ikuti format yang dibawah ini trus tambahkan di bawah profile yang lainnya, (_Inget ya formatnya [Markdown](https://commonmark.org/help/), bukan HTML_) 🙂
 
 ```
 ### <NAMA>
@@ -36,7 +36,7 @@ Petualanganpun terus berlanjut dan seiring dengan semakin bertambahnya pengalama
 
 ### M. Asraf Takayuma
 
-Saya berasal dari Ds. Kejoyo Kec. Kabat yang ada di Kota Banyuwangi. Setelah melihat channel Yt UpKoding  saya semakin termotivasi untuk lebih giat lagi belajar mengenai pemrograman karena untuk menjadi seorang Developer sendiri kita harus giat belajar dan latihan. Dimana semulanya saya masih bermalas-malasan dalam belajar pemrograman, Alhamdulillah kini saya mulai lebih giat dan sering latihan. Saya ingin menjadi seorang FRONT END DEVELOPER dan sekaran mulai belajar HTML, CSS dan JAVASCRIPT. Semoga Channel Yt UpKoding semakin SUKSES dan JAYA.
+Saya berasal dari Ds. Kejoyo Kec. Kabat yang ada di Kota Banyuwangi. Setelah melihat channel Yt UpKoding saya semakin termotivasi untuk lebih giat lagi belajar mengenai pemrograman karena untuk menjadi seorang Developer sendiri kita harus giat belajar dan latihan. Dimana semulanya saya masih bermalas-malasan dalam belajar pemrograman, Alhamdulillah kini saya mulai lebih giat dan sering latihan. Saya ingin menjadi seorang FRONT END DEVELOPER dan sekaran mulai belajar HTML, CSS dan JAVASCRIPT. Semoga Channel Yt UpKoding semakin SUKSES dan JAYA.
 
 [https://github.com/TakayumAja](https://github.com/TakayumAja)
 
@@ -55,7 +55,7 @@ buat UpKoding sukses terus dan jangan lupa upload video!
 
 ### Rizky Darmawan
 
-Hai, Saya Rizky Darmawan asal Binjai Sumatera Utara yaitu kota yang terkenal dengan buah Rambutan. Saya seorang junior web developer disalah satu perusahan jasa kiriman dimedan. Saya seorang yang suka penasaran dan coding membuat saya selalu penasaran dan memberikan kepuasan ketika penasaran itu terpecahkan. Oiya saya juga mempunyai catatan pribadi yang saya jadikan sebagai blog yaitu [Jabutech.com](https://www.jabutech.com/). 
+Hai, Saya Rizky Darmawan asal Binjai Sumatera Utara yaitu kota yang terkenal dengan buah Rambutan. Saya seorang junior web developer disalah satu perusahan jasa kiriman dimedan. Saya seorang yang suka penasaran dan coding membuat saya selalu penasaran dan memberikan kepuasan ketika penasaran itu terpecahkan. Oiya saya juga mempunyai catatan pribadi yang saya jadikan sebagai blog yaitu [Jabutech.com](https://www.jabutech.com/).
 
 Saya berharap catatan saya ini juga berguna untuk kita semua. Saya punya cita - cita bekerja fulltime menjadi seorang programer profesional dan seorang freelancer profesional. Semoga Allah memudahkan langka saya ya. Ammin !!
 
@@ -67,7 +67,7 @@ Terima kasih juga kepada UpKoding, motivasinya sangat membuat saya pribadi menaj
 
 ### Samuel Pasaribu
 
-Halo nama saya samuel, kini saya belum bekerja dan masih fokus belajar menjadi seorang programmer yang sebenarnya. Saya tamatan sarjana dengan jurusan teknik informatika. Pemrograman pertama yang pernah saya coba adalah <i>Hacking</i>, setelah itu belajar bahasa pemrograman lainnya seperti html, css, javascript, python dan sebagainya. <i>I love designing websites and creating applications</i>. Namun saya banyak melakukan kesalahan dalam pembelajaran yaitu <i>copy paste</i> (<i>plagiat</i>) program orang lain. Saya bukan cuma <i>copy paste</i> saja tetapi belajar memperbaiki <i>error</i> dan memodifikasi program tersebut menjadi lebih baik dan itu menjadi nilai plus saya semakin giat belajar pemrograman. Sekarang saya mau belajar untuk tidak melakukan hal itu dan membangun program sendiri dari nol sampai bisa benar-benar mengembangkannya. Seiring dengan berjalannya waktu dan atas segala hal yang terjadi perlahan saya sadar bahwa terkadang waktu mengikis seseorang menjadi sesuatu yang lain. Terkadang saya jenuh belajar pemrograman seperti kalau kita punya niat tapi melakukan itu cuma seorang diri (belum menghasilkan). Saya coba cari pembelajaran di internet agar bisa berkontribusi dengan orang lain namun apa yang saya dapatkan (?) Tidak ada yang gratis semuanya prabayar untuk bisa bergabung. Sementara saya belum mempunyai gaji untuk membayar semua itu. Lalu, Saya tidak sengaja (iseng) melihat youtube dan saat itu saya melihat seseorang sedang memberikan tips dan pembelajaran tentang pemrograman. Saya kira dia serius dalam memberikan pembelajaran seperti apa yang sudah dijelaskan dengan detail dan memberikan tutorial khusus bagi yang mau belajar. Walaupun apa yang sudah dijelaskan beliau panjang lebar saya masih kurang paham (karena saya masih baru) tetapi saya perlahan-lahan  mengikuti cara mainnya dan mulai belajar (tidak ada yang terlambat) katanya. Setelah itu saya klik isi deskripsi (link) yang mengarah ke grup telegram / forum diskusi teknologi dan pemrograman yaitu bernama <a href="https://t.me/upkoding">UpKoding</a>. Bukan cuma itu beliau juga responsif dalam memberikan solusi dan menjawab semua pertanyaan-pertanyaan sesama teman di grup, saya jadi semangat dan termotivasi untuk tetap terus belajar dan melatih kemampuan yang saya miliki. Beliau adalah <a href="https://github.com/ekaputra07">@ekaputra</a> Abg tampan yang tetap semangat 😎 dan harapan saya buat beliau semoga aja dia tidak bosan dan dapat mengembangkan ide-idenya sesuai keinginan dan harapannya atau bisa juga membangun <i>business</i> yang dapat menghasilkan ($) sesama <i>team</i> Hehehe seperti <i>startup</i> lainnnya. Semoga <b>Upkoding</b> bisa menjadi sebuah perusahaan <i>startup</i> di Indonesia. Amin 🙏 
+Halo nama saya samuel, kini saya belum bekerja dan masih fokus belajar menjadi seorang programmer yang sebenarnya. Saya tamatan sarjana dengan jurusan teknik informatika. Pemrograman pertama yang pernah saya coba adalah <i>Hacking</i>, setelah itu belajar bahasa pemrograman lainnya seperti html, css, javascript, python dan sebagainya. <i>I love designing websites and creating applications</i>. Namun saya banyak melakukan kesalahan dalam pembelajaran yaitu <i>copy paste</i> (<i>plagiat</i>) program orang lain. Saya bukan cuma <i>copy paste</i> saja tetapi belajar memperbaiki <i>error</i> dan memodifikasi program tersebut menjadi lebih baik dan itu menjadi nilai plus saya semakin giat belajar pemrograman. Sekarang saya mau belajar untuk tidak melakukan hal itu dan membangun program sendiri dari nol sampai bisa benar-benar mengembangkannya. Seiring dengan berjalannya waktu dan atas segala hal yang terjadi perlahan saya sadar bahwa terkadang waktu mengikis seseorang menjadi sesuatu yang lain. Terkadang saya jenuh belajar pemrograman seperti kalau kita punya niat tapi melakukan itu cuma seorang diri (belum menghasilkan). Saya coba cari pembelajaran di internet agar bisa berkontribusi dengan orang lain namun apa yang saya dapatkan (?) Tidak ada yang gratis semuanya prabayar untuk bisa bergabung. Sementara saya belum mempunyai gaji untuk membayar semua itu. Lalu, Saya tidak sengaja (iseng) melihat youtube dan saat itu saya melihat seseorang sedang memberikan tips dan pembelajaran tentang pemrograman. Saya kira dia serius dalam memberikan pembelajaran seperti apa yang sudah dijelaskan dengan detail dan memberikan tutorial khusus bagi yang mau belajar. Walaupun apa yang sudah dijelaskan beliau panjang lebar saya masih kurang paham (karena saya masih baru) tetapi saya perlahan-lahan mengikuti cara mainnya dan mulai belajar (tidak ada yang terlambat) katanya. Setelah itu saya klik isi deskripsi (link) yang mengarah ke grup telegram / forum diskusi teknologi dan pemrograman yaitu bernama <a href="https://t.me/upkoding">UpKoding</a>. Bukan cuma itu beliau juga responsif dalam memberikan solusi dan menjawab semua pertanyaan-pertanyaan sesama teman di grup, saya jadi semangat dan termotivasi untuk tetap terus belajar dan melatih kemampuan yang saya miliki. Beliau adalah <a href="https://github.com/ekaputra07">@ekaputra</a> Abg tampan yang tetap semangat 😎 dan harapan saya buat beliau semoga aja dia tidak bosan dan dapat mengembangkan ide-idenya sesuai keinginan dan harapannya atau bisa juga membangun <i>business</i> yang dapat menghasilkan ($) sesama <i>team</i> Hehehe seperti <i>startup</i> lainnnya. Semoga <b>Upkoding</b> bisa menjadi sebuah perusahaan <i>startup</i> di Indonesia. Amin 🙏
 
 <b> Motivasi </b>
 
@@ -93,20 +93,19 @@ Salam damai dari Bali, Perkenalkan saya Made Gunawan keseharian sebagai karyawan
 
 [https://github.com/madegun](http://github.com/madegun)
 
-
 <hr/>
 
 ### Nazir Bahrul Ulum
 
-Halo, Perkenalkan nama saya Nazir Bahrul Ulum. Saya merupakan lulusan SMK tahun 2020, walaupun saya hanya lulusan SMK saya yakin dapat menyaingi lulusan universitas dengan skill yang saya miliki. Saya saat ini masih tetap belajar mengenai pemrograman, fokus terhadap teknologi Front End Developer. Saya memiliki cita-cita menjadi seorang Front End Developer dan juga mentor. 
+Halo, Perkenalkan nama saya Nazir Bahrul Ulum. Saya merupakan lulusan SMK tahun 2020, walaupun saya hanya lulusan SMK saya yakin dapat menyaingi lulusan universitas dengan skill yang saya miliki. Saya saat ini masih tetap belajar mengenai pemrograman, fokus terhadap teknologi Front End Developer. Saya memiliki cita-cita menjadi seorang Front End Developer dan juga mentor.
 
 [https://github.com/devnazir](http://github.com/devnazir)
 
-<hr/> 
+<hr/>
 
 ### Giovanni Kurniawan
 
-Halo, Perkenalkan nama saya Giovanni Kurniawan. Saya merupakan Mahasiswa Universitas Multimedia Nusantara , Saya saat ini masih tetap belajar mengenai pemrograman, fokus terhadap teknologi Front End Developer dan Back End Developer. Saya memiliki harapan suatu saat nanti ilmu yang saya pelajari akan berguna bagi banyak orang.  
+Halo, Perkenalkan nama saya Giovanni Kurniawan. Saya merupakan Mahasiswa Universitas Multimedia Nusantara , Saya saat ini masih tetap belajar mengenai pemrograman, fokus terhadap teknologi Front End Developer dan Back End Developer. Saya memiliki harapan suatu saat nanti ilmu yang saya pelajari akan berguna bagi banyak orang.
 
 [https://github.com/giovannikurniawan](https://github.com/giovannikurniawan)
 
@@ -118,7 +117,12 @@ Salam kenal semua , Saya Renaldi dari Surabaya . Saat ini masih proses belajar m
 
 [https://github.com/informatika3052](https://github.com/informatika3052)
 
-
 <hr/>
 
+### Abdur Rahim
 
+Hai, saya fullstack developer berasal dari Mempawah, Kalimantan Barat. Saat ini masih kuliah yang jurusannya berbeda jauh sama passion saya. Kebetulan saya suka sekali membuat code menggunakan JavaScript. Untuk ngoding di frontend saya biasanya make React js, Vue js and React Native. Sedangkan dibagian backendnya biasa menggunakan Node Js/Express Js dan MongoDB/MySQL. Kedepannya saya ingin mempelajari teknologi-teknologi lain seperti Flutter/Dart yang lagi trendy sekaligus mempertajam pengetahuan saya di teknologi-teknologi yang telah saya pelajari.
+
+[https://github.com/abdoerrahiem](https://github.com/abdoerrahiem)
+
+<hr/>
