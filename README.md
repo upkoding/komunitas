@@ -125,7 +125,7 @@ Hai, saya fullstack developer berasal dari Mempawah, Kalimantan Barat. Saat ini 
 
 [https://github.com/abdoerrahiem](https://github.com/abdoerrahiem)
 
-<hr/
+<hr/>
 
 ### M.Hidayatullah
 
