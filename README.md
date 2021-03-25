@@ -132,3 +132,13 @@ Hai, saya fullstack developer berasal dari Mempawah, Kalimantan Barat. Saat ini 
 Hai, Saya M.Hidayatullah Dari Lombok NTB, Saat ini masih kuliah di salah satu perguruan tinggi di Matarm Lombok NTB dengan jurusan Ilmu Komputer. Saya sedang fokus di Web Development.
 
 [https://github.com/M-Hidayatullah](https://github.com/M-Hidayatullah)
+
+<hr/>
+
+### Moch Shandy Tsalasa Putra
+
+Halo, nama saya Moch Shandy Tsalasa Putra. Asal dari Sidoarjo dan sekarang mahasiswa terakhir di salah satu universitas swasta di Malang. Kesibukan saat ini mengerjakan skripsi dan bekerja sebagai Teaching Assistant di Pacmann.ai. Kalau di waktu senggang, saya suka baca - baca paper akademis atau artikel yang terbaru, terutama di bidang Artifical Intelligence. Saya memiliki *research interest* di bidang Machine Learning, Computer Vision dan Medical Imaging.
+
+[https://github.com/shandytp](https://github.com/shandytp)
+
+<hr/>
