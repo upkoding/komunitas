@@ -142,3 +142,11 @@ Halo, nama saya Moch Shandy Tsalasa Putra. Asal dari Sidoarjo dan sekarang mahas
 [https://github.com/shandytp](https://github.com/shandytp)
 
 <hr/>
+
+### Hasan Ikhtiarta
+
+Hai! Perkenalkan nama saya Hasan Ikhtiarta dari Bogor. Sekarang aktif sebagai Backend Developer di salah satu perusahaan IT swasta di Jakarta. Saya memiliki ketertarikan untuk aktif dan berkembang di pengembangan aplikasi web dan mobile. Terima kasih untuk Mas Eka Putra atas materi yang diberikan di channel UpKoding, sangat membantu sekali. Sukses terus untuk kita semua! Aamiin. 
+
+[https://github.com/hikhtiarta27](https://github.com/hikhtiarta27)
+
+<hr/>
