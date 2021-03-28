@@ -150,3 +150,13 @@ Hai! Perkenalkan nama saya Hasan Ikhtiarta dari Bogor. Sekarang aktif sebagai Ba
 [https://github.com/hikhtiarta27](https://github.com/hikhtiarta27)
 
 <hr/>
+
+### Rizky Kurniawan
+
+Halo, Saya Rizky Kurniawan dari Katingan, Kalimantan Tengah. Saat ini menjadi mahasiswa jurusan Teknik Informatika di Universitas Islam Kalimantan, Kalimantan Selatan.
+Saya menyukai pemrograman khususnya Web Development, dan sampai saat ini masih belajar untuk meningkatkan kemampuan saya.
+Terima Kasih, Semoga kita semua sehat selalu.
+
+[https://github.com/kykurniawan](https://github.com/kykurniawan)
+
+<hr/>
