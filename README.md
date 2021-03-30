@@ -160,3 +160,11 @@ Terima Kasih, Semoga kita semua sehat selalu.
 [https://github.com/kykurniawan](https://github.com/kykurniawan)
 
 <hr/>
+
+
+### aurelius
+Halo , Nama saya aurelius Tinggal di Jakarta , Masih SMP , Saya Sangat Tertarik dengan IT terutama Ethical hacking dan Programming, Bahasa Programming yang saya pakai adalah C, C++ dan Python
+
+[https://github.com/TRIPLEEE212](https://github.com/TRIPLEEE212)
+
+<hr/>
