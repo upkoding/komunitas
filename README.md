@@ -168,3 +168,20 @@ Halo , Nama saya aurelius Tinggal di Jakarta , Masih SMP , Saya Sangat Tertarik 
 [https://github.com/TRIPLEEE212](https://github.com/TRIPLEEE212)
 
 <hr/>
+
+### Wisnu Prasetio
+
+Hai,saya Wisnu Prasetio, lulusan SMK dari Kabupaten Cilacap dengan jurusan otomotif, seorang yang profesional dalam bekerja, suka belajar hal baru dan pemimpi besar. Sejak kecil sangat suka dengan komputer, tertarik dengan banyak hal yang berhubungan dengan komputer dan salah satu yang
+sangat menarik adalah pemrograman. Memulai belajar HTML CSS sejak 2019. Mulai mendalami lebih dalam lagi akhir 2020 dengan mempelajari JavaScript.
+
+Saya ingin menjadi seorang programmer yang hebat dan pengusaha yang hebat. Skill yang saya miliki adalah JavaScript, Node JS, Express JS, React JS.
+Saat ini saya tengah belajar di Coding Bootcamp Arkademy sebagai Talent. Sedang mempelajari Redux dan tengah mengerjakan beberapa projeck.
+salah satunya adalah [https://bioskopnya-wisnu.herokuapp.com/](https://bioskopnya-wisnu.herokuapp.com/) 
+
+Saya punya mimpi untuk bisa menjadi seorang Programmer yang bekerja di luar negeri seperti mas Eka, bahkan saya ingin bisa lebih dari mas Eka, hehe.
+Dan pada 2 tahun yang akan datang, saya ingin membangun perusahaan yang bergerak di bidak IT Pendidikan. Saya berharap semoga tulisan saya ini bisa menjadi langkah awal untuk mencapai mimpi saya tersebut. Semangat Berproses! 
+
+
+[https://github.com/prasetioad](https://github.com/prasetioad)
+
+<hr/>
