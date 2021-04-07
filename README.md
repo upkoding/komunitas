@@ -197,7 +197,7 @@ Terimakasih Mas Eka sudah membuat Saya makin termotivasi lagi untuk menjadi seor
 
 ### M Iksan Arifki
 
-Hai, perkenalkan Nama saya Mohammad Iksan Arikfi dari Surabaya, Saat ini saya masih kuliah di salah satu universitas di Surabaya jawa timur dan menggambil jurusan Teknik informatika, saat ini saya sedang fokus di web Development,
+Hai, perkenalkan Nama saya Mohammad Iksan Arifki dari Surabaya, Saat ini saya masih kuliah di salah satu universitas di Surabaya jawa timur dan menggambil jurusan Teknik informatika, saat ini saya sedang fokus di web Development,
 bahasa yang saya pakai c++, python, java
 https://github.com/IksanArifki27
 
