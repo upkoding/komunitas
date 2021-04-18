@@ -212,3 +212,13 @@ Petualangan saya baru dimulai di tahun ini 2021. Doakan saya agar bisa sampai ke
 [https://github.com/imotD](https://github.com/imotD)
 
 <hr/>
+
+### Feri Lukmansyah
+
+halo salam kenal nama saya Feri Lukmansyah dari Jepara saat ini sedang mempelajari pemrograman Python, saya sangat senang dengan dunia pemrograman ini karena banyak sesuatu yang bisa di ulik di pemrograman ini.
+saya sangat antusias dalam mempelajari hal baru terutama tentang system operasi Linux
+system operasi yang saya pakai adalah [Arch Linux](https://archlinux.org/), saya juga gemar menulis baik bahasa indonesia atau bahasa inggris.
+
+[https://github.com/perymerdeka/](https://github.com/perymerdeka/)
+
+<hr/>
