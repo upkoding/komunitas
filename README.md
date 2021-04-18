@@ -203,6 +203,16 @@ https://github.com/IksanArifki27
 
 <hr/>
 
+### Tommy Alhamra
+
+salam kenal 👋, saya suka buat sesuatu. mimpi saya menjadi frontend developer yang dapat diandalkan. ~itu saja
+
+Petualangan saya baru dimulai di tahun ini 2021. Doakan saya agar bisa sampai ke mimpi saya. Amin. Oh ya saya juga sedang membangun channel youtube juga. Tapi belum jalan. Doakan juga agar saya bisa seperti mas eka. amin [Channel Youtube MuridKoding](https://www.youtube.com/c/MuridKoding/).
+
+[https://github.com/imotD](https://github.com/imotD)
+
+<hr/>
+
 ### Feri Lukmansyah
 
 halo salam kenal nama saya Feri Lukmansyah dari Jepara saat ini sedang mempelajari pemrograman Python, saya sangat senang dengan dunia pemrograman ini karena banyak sesuatu yang bisa di ulik di pemrograman ini.
