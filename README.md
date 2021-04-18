@@ -209,8 +209,6 @@ halo salam kenal nama saya Feri Lukmansyah dari Jepara saat ini sedang mempelaja
 saya sangat antusias dalam mempelajari hal baru terutama tentang system operasi Linux
 system operasi yang saya pakai adalah [Arch Linux](https://archlinux.org/), saya juga gemar menulis baik bahasa indonesia atau bahasa inggris.
 
-* [github](https://github.com/perymerdeka/)
-* [blog bahasa indonesia](https://perykun.netlify.app/)
-* [blog bahasa inggris](https://ferilukmansyah.medium.com/)
+[https://github.com/perymerdeka/](https://github.com/perymerdeka/)
 
 <hr/>
