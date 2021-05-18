@@ -222,3 +222,14 @@ system operasi yang saya pakai adalah [Arch Linux](https://archlinux.org/), saya
 [https://github.com/perymerdeka/](https://github.com/perymerdeka/)
 
 <hr/>
+
+### Billy Franscois
+
+Hi saya Billy dari Ambon, saya adalah mahasiswa Informatika yang saat ini sedang mempelajari C++ dan implementasi data stuktur dan algoritma.
+dan juga saya sedang mempelajari Framework Flutter dalam pengembangan Mobile application.
+
+Saya memulai programming dari tahun 2020 dan sudah setengah tahun saya lalui dalam mempelajari programming dikampus dan otodidak. tujuan saya kedepannya adalah menjadi Game developer atau Application developer dan semoga bisa kecapai salah satunya.
+
+[https://github.com/BillyFrcs](https://github.com/BillyFrcs)
+
+<hr/>
