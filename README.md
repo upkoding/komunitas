@@ -233,3 +233,21 @@ Saya memulai programming dari tahun 2020 dan sudah setengah tahun saya lalui dal
 [https://github.com/BillyFrcs](https://github.com/BillyFrcs)
 
 <hr/>
+
+
+### Rohmat Ass`ari
+
+Hai semua, Salam Kenal ikut coba mempraktikan dari content youtube UpKoding
+
+
+```go
+  func main() {
+	  fmt.Println("Terimaksih, UpKoding")
+  }
+
+```
+
+
+[![Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub](https://i.ytimg.com/vi/V2A07tTjVnY/hqdefault.jpg)](https://youtu.be/V2A07tTjVnY "Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub")
+
+---
