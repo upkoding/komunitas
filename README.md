@@ -6,6 +6,8 @@ Nah buat kalian yang lagi belajar pemrograman atau sudah menjadi seorang program
 
 ## Ini repo apa sih?
 
+[![Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub](https://i.ytimg.com/vi/V2A07tTjVnY/hqdefault.jpg)](https://youtu.be/V2A07tTjVnY "Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub")
+
 Oh iya, buat yang belum tau tonton dulu ya video ini [Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub](https://youtu.be/V2A07tTjVnY). Jadi repo ini mengajak semuanya untuk mulai berkontribusi ke proyek-proyek open source atau sumber terbuka. Bisa berkontribusi ke proyek lain yang sudah ada, atau bisa jadikan repo ini sebagai ajang kenalan dan latihan kita berkontribusi di Github.
 
 Seperti dilihat daftar profile dibawah ini, _kamu tidak sendirian belajar pemrograman_, saya juga belajar, temen yang lain juga lagi belajar. _Saya bisa jadi programmer maka kamu juga pasti akan bisa_. [[eka](https://github.com/ekaputra07)]
@@ -246,8 +248,4 @@ Hai semua, Salam Kenal ikut coba mempraktikan dari content youtube UpKoding
   }
 
 ```
-
-
-[![Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub](https://i.ytimg.com/vi/V2A07tTjVnY/hqdefault.jpg)](https://youtu.be/V2A07tTjVnY "Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub")
-
----
+<hr />
