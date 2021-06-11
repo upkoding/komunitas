@@ -249,3 +249,17 @@ Hai semua, Salam Kenal ikut coba mempraktikan dari content youtube UpKoding
 
 ```
 <hr />
+
+### Muhammad Iqbal 🎓
+
+
+Salam kenal saya Muhammad Iqbal hanya programmer biasa yang sangat suka belajar hal baru dan bereksperimen dengan banyak ide 
+saat ini sedang mendalami analisis data bagaimana sebuah data dapat memiliki banyak informasi yang berharga dan mempengaruhi dunia ini sangat menarik
+
+bahasa yang saya sukai adalah python sebuah bahasa yang sederhana tapi didukung oleh library opensource yang sangat banyak dimana seluruh dunia berkontribusi
+dan saya ingin ikut berkontribusi
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+[https://github.com/muhiqsimui](https://github.com/muhiqsimui)
+
+<hr/>
