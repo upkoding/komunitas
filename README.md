@@ -249,3 +249,14 @@ Hai semua, Salam Kenal ikut coba mempraktikan dari content youtube UpKoding
 
 ```
 <hr />
+
+## Umar
+Software Enginer | Tech Enthusiast
+
+```go
+  func main() {
+      var message string = "Assalamual'aikum every body"
+      fmt.Println(message)
+  }
+
+```
