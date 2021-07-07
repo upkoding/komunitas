@@ -263,3 +263,18 @@ dan saya ingin ikut berkontribusi
 [https://github.com/muhiqsimui](https://github.com/muhiqsimui)
 
 <hr/>
+
+### Amanudin Harahap
+
+Hi saya Amanudin dari Medan, saya merupakan mahasiswa Universitas Budidarma jurusan Teknik Informatika. Sekarang saya sudah menempuh semester 6. 
+
+Saya sangat tertarik dengan dunia programming. Saya memiliki pengalaman development menggunakan stack Javascript
+
+> React JS
+> Express JS 
+> Mongo DB
+> Laravel
+
+[https://github.com/AmanHrp10](https://github.com/AmanHrp10)
+
+<hr/>
