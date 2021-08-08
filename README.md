@@ -287,3 +287,17 @@ Hi saya Adi Munawar Kamil dari Tasikmalaya,salam kenal semuanya, saya sekarang b
 [https://github.com/adimunawar](https://github.com/adimunawar)
 
 <hr/>
+
+### Edwin Samodra Pratama
+
+Halo, kenalin aku Edwin Samodra Pratama, sekarang sedang belajar tentang Laravel dan segala sesuatu tentang **Open Source**. Saya juga suka hiking dan backpacker karena dengan melakukan kegiatan itu aku jadi merasa hidup!
+
+Ingin dan sedang belajar :
+- PHP
+- Java
+- Javascript
+- Laravel
+- Open Source
+
+Mari terhubung denganku melalui [GITHUB](https://github.com/edwinsamodra)
+<hr/>
