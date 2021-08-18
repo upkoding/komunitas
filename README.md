@@ -159,7 +159,7 @@ Halo, Saya Rizky Kurniawan dari Katingan, Kalimantan Tengah. Saat ini menjadi ma
 Saya menyukai pemrograman khususnya Web Development, dan sampai saat ini masih belajar untuk meningkatkan kemampuan saya.
 Terima Kasih, Semoga kita semua sehat selalu.
 
-[https://github.com/kykurniawan](https://github.com/kykurniawan)
+[https://github.com/kykurniawan](https://github.com/rizkyrizky)
 
 <hr/>
 
