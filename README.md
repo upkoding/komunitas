@@ -301,4 +301,18 @@ Ingin dan sedang belajar :
 - Open Source
 
 Mari terhubung denganku melalui [GITHUB](https://github.com/edwinsamodra)
+
+<hr/>
+
+### Umar
+Software Enginer | Tech Enthusiast
+
+```go
+  func main() {
+      var message string = "Assalamual'aikum every body"
+      fmt.Println(message)
+  }
+```
+[https://github.com/umardevid](https://github.com/umardevid)
+
 <hr/>
