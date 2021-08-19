@@ -159,7 +159,7 @@ Halo, Saya Rizky Kurniawan dari Katingan, Kalimantan Tengah. Saat ini menjadi ma
 Saya menyukai pemrograman khususnya Web Development, dan sampai saat ini masih belajar untuk meningkatkan kemampuan saya.
 Terima Kasih, Semoga kita semua sehat selalu.
 
-[https://github.com/kykurniawan](https://github.com/kykurniawan)
+[https://github.com/kykurniawan](https://github.com/rizkyrizky)
 
 <hr/>
 
@@ -250,7 +250,61 @@ Hai semua, Salam Kenal ikut coba mempraktikan dari content youtube UpKoding
 ```
 <hr />
 
-## Umar
+### Muhammad Iqbal 🎓
+
+
+Salam kenal saya Muhammad Iqbal hanya programmer biasa yang sangat suka belajar hal baru dan bereksperimen dengan banyak ide 
+saat ini sedang mendalami analisis data bagaimana sebuah data dapat memiliki banyak informasi yang berharga dan mempengaruhi dunia ini sangat menarik
+
+bahasa yang saya sukai adalah python sebuah bahasa yang sederhana tapi didukung oleh library opensource yang sangat banyak dimana seluruh dunia berkontribusi
+dan saya ingin ikut berkontribusi
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+[https://github.com/muhiqsimui](https://github.com/muhiqsimui)
+
+<hr/>
+
+### Amanudin Harahap
+
+Hi saya Amanudin dari Medan, saya merupakan mahasiswa Universitas Budidarma jurusan Teknik Informatika. Sekarang saya sudah menempuh semester 6. 
+
+Saya sangat tertarik dengan dunia programming. Saya memiliki pengalaman development menggunakan stack Javascript
+
+> React JS
+> Express JS 
+> Mongo DB
+> Laravel
+
+[https://github.com/AmanHrp10](https://github.com/AmanHrp10)
+
+<hr/>
+
+### Adi Munawar Kamil
+
+Hi saya Adi Munawar Kamil dari Tasikmalaya,salam kenal semuanya, saya sekarang bekerja sebagai Network Engineer, tapi sejak masa kuliah saya seneng dengan programming, saya mulai belajar programming itu menggunakan php, css, javascript, dan sekarang saya sedang fokus belajar mobile programming yaitu flutter, semoga kedepannya saya bisa bekerja sesuai dengan apa yang saya suakai.
+
+
+
+[https://github.com/adimunawar](https://github.com/adimunawar)
+
+<hr/>
+
+### Edwin Samodra Pratama
+
+Halo, kenalin aku Edwin Samodra Pratama, sekarang sedang belajar tentang Laravel dan segala sesuatu tentang **Open Source**. Saya juga suka hiking dan backpacker karena dengan melakukan kegiatan itu aku jadi merasa hidup!
+
+Ingin dan sedang belajar :
+- PHP
+- Java
+- Javascript
+- Laravel
+- Open Source
+
+Mari terhubung denganku melalui [GITHUB](https://github.com/edwinsamodra)
+
+<hr/>
+
+### Umar
 Software Enginer | Tech Enthusiast
 
 ```go
@@ -258,5 +312,7 @@ Software Enginer | Tech Enthusiast
       var message string = "Assalamual'aikum every body"
       fmt.Println(message)
   }
-
 ```
+[https://github.com/umardevid](https://github.com/umardevid)
+
+<hr/>
