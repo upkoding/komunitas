@@ -316,3 +316,18 @@ Software Enginer | Tech Enthusiast
 [https://github.com/umardevid](https://github.com/umardevid)
 
 <hr/>
+
+### Ardhi Putra
+
+Halo halo 👋, kenalin nama saya Ardhi Putra Pradana, salam kenal buat yang baca teks ini 😁.
+Saat ini saya masih menjadi seorang pelajar yang masuk ke jurusan SIJA, kalau misal ada yang belum tahu apa itu jurusan SIJA, jadi SIJA itu kependekan dari Sistem Informatika Jaringan dan Aplikasi. Saya sendiri juga punya channel youtube, jadi buat temen temen yang mau cek channel nya, kalian bisa cek di youtube channel [Eliezer Dev](https://www.youtube.com/channel/UCrQeCLMu3GGVZp52S8tvaHw), thank you 🤞
+
+```python
+while age < live:
+	doBetter()
+	age += 1
+```
+
+[https://github.com/ardhptr21](https://github.com/ardhptr21)
+
+<hr/>
