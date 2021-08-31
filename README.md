@@ -325,7 +325,7 @@ Saat ini saya masih menjadi seorang pelajar yang masuk ke jurusan SIJA, kalau mi
 ```python
 while age < live:
 	doBetter()
-	age++
+	age += 1
 ```
 
 [https://github.com/ardhptr21](https://github.com/ardhptr21)
