@@ -334,7 +334,7 @@ while age < live:
 
 ### Muhamad Hamdanil
 
-Halo Mas Eka (@ekaputra07), halo semuanya dan selam kenal, saya Daniel dari Lombok, NTB. Saya baru-baru ini sedang belajar FrontEnd, dan suka ikut di acara-acara keomunitas khususnya IT, dan alhamdulillah ketemu sama repo ini bersyukur sekali. 
+Halo Mas Eka (@ekaputra07), halo semuanya dan selam kenal, saya Daniel dari Lombok, NTB. Saya baru-baru ini sedang belajar FrontEnd, dan suka ikut di acara-acara komunitas khususnya IT, dan alhamdulillah ketemu sama repo ini bersyukur sekali. 
 
 Semoga saya bisa ikut berkontribusi dan berkolaborasi dengan baik bersama teman-teman semua.
 
