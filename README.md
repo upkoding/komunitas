@@ -331,3 +331,13 @@ while age < live:
 [https://github.com/ardhptr21](https://github.com/ardhptr21)
 
 <hr/>
+
+### Muhamad Hamdanil
+
+Halo Mas Eka (@ekaputra07), halo semuanya dan selam kenal, saya Daniel dari Lombok, NTB. Saya baru-baru ini sedang belajar FrontEnd, dan suka ikut di acara-acara komunitas khususnya IT, dan alhamdulillah ketemu sama repo ini bersyukur sekali. 
+
+Semoga saya bisa ikut berkontribusi dan berkolaborasi dengan baik bersama teman-teman semua.
+
+[https://github.com/ahadsenja](https://github.com/ahadsenja)
+
+<hr/>
