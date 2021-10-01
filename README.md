@@ -24,7 +24,7 @@ Pertama, **tolong di Like dulu repo ini ya hehe**, trus tinggal copy dan ikuti f
 [https://github.com/ekaputra07](https://github.com/ekaputra07)
 ```
 
-<hr />
+<hr/>
 
 ### Eka Putra
 
@@ -34,7 +34,7 @@ Petualanganpun terus berlanjut dan seiring dengan semakin bertambahnya pengalama
 
 [https://github.com/ekaputra07](https://github.com/ekaputra07)
 
-<hr />
+<hr/>
 
 ### M. Asraf Takayuma
 
@@ -42,7 +42,7 @@ Saya berasal dari Ds. Kejoyo Kec. Kabat yang ada di Kota Banyuwangi. Setelah mel
 
 [https://github.com/TakayumAja](https://github.com/TakayumAja)
 
-<hr />
+<hr/>
 
 ### Adi pratama jaya
 
@@ -53,7 +53,7 @@ buat UpKoding sukses terus dan jangan lupa upload video!
 
 [https://github.com/Apratama272](https://github.com/Apratama272)
 
-<hr />
+<hr/>
 
 ### Rizky Darmawan
 
@@ -65,7 +65,7 @@ Terima kasih juga kepada UpKoding, motivasinya sangat membuat saya pribadi menaj
 
 [https://github.com/jabutech](https://github.com/jabutech)
 
-<hr />
+<hr/>
 
 ### Samuel Pasaribu
 
@@ -79,7 +79,7 @@ Sekarang saya sedang belajar mengembangkan sebuah <i>game</i> untuk <i>giveaway<
 
 [https://github.com/samuelpasaribu](https://github.com/samuelpasaribu)
 
-<hr />
+<hr/>
 
 ### Rizal Gente
 
@@ -87,7 +87,7 @@ Assalamualaikum, Saya mahasiswa teknik elektro di universitas ichsan gorontalo, 
 
 [https://github.com/Rizalgente](https://github.com/Rizalgente)
 
-<hr />
+<hr/>
 
 ### Madegun
 
@@ -95,7 +95,7 @@ Salam damai dari Bali, Perkenalkan saya Made Gunawan keseharian sebagai karyawan
 
 [https://github.com/madegun](http://github.com/madegun)
 
-<hr />
+<hr/>
 
 ### Nazir Bahrul Ulum
 
@@ -103,7 +103,7 @@ Halo, Perkenalkan nama saya Nazir Bahrul Ulum. Saya merupakan lulusan SMK tahun 
 
 [https://github.com/devnazir](http://github.com/devnazir)
 
-<hr />
+<hr/>
 
 ### Giovanni Kurniawan
 
@@ -111,7 +111,7 @@ Halo, Perkenalkan nama saya Giovanni Kurniawan. Saya merupakan Mahasiswa Univers
 
 [https://github.com/giovannikurniawan](https://github.com/giovannikurniawan)
 
-<hr />
+<hr/>
 
 ### Renaldi D.
 
@@ -119,7 +119,7 @@ Salam kenal semua , Saya Renaldi dari Surabaya . Saat ini masih proses belajar m
 
 [https://github.com/informatika3052](https://github.com/informatika3052)
 
-<hr />
+<hr/>
 
 ### Abdur Rahim
 
@@ -127,7 +127,7 @@ Hai, saya fullstack developer berasal dari Mempawah, Kalimantan Barat. Saat ini 
 
 [https://github.com/abdoerrahiem](https://github.com/abdoerrahiem)
 
-<hr />
+<hr/>
 
 ### M.Hidayatullah
 
@@ -135,7 +135,7 @@ Hai, Saya M.Hidayatullah Dari Lombok NTB, Saat ini masih kuliah di salah satu pe
 
 [https://github.com/M-Hidayatullah](https://github.com/M-Hidayatullah)
 
-<hr />
+<hr/>
 
 ### Moch Shandy Tsalasa Putra
 
@@ -143,15 +143,15 @@ Halo, nama saya Moch Shandy Tsalasa Putra. Asal dari Sidoarjo dan sekarang mahas
 
 [https://github.com/shandytp](https://github.com/shandytp)
 
-<hr />
+<hr/>
 
 ### Hasan Ikhtiarta
 
-Hai! Perkenalkan nama saya Hasan Ikhtiarta dari Bogor. Sekarang aktif sebagai Backend Developer di salah satu perusahaan IT swasta di Jakarta. Saya memiliki ketertarikan untuk aktif dan berkembang di pengembangan aplikasi web dan mobile. Terima kasih untuk Mas Eka Putra atas materi yang diberikan di channel UpKoding, sangat membantu sekali. Sukses terus untuk kita semua! Aamiin.
+Hai! Perkenalkan nama saya Hasan Ikhtiarta dari Bogor. Sekarang aktif sebagai Backend Developer di salah satu perusahaan IT swasta di Jakarta. Saya memiliki ketertarikan untuk aktif dan berkembang di pengembangan aplikasi web dan mobile. Terima kasih untuk Mas Eka Putra atas materi yang diberikan di channel UpKoding, sangat membantu sekali. Sukses terus untuk kita semua! Aamiin. 
 
 [https://github.com/hikhtiarta27](https://github.com/hikhtiarta27)
 
-<hr />
+<hr/>
 
 ### Rizky Kurniawan
 
@@ -161,7 +161,7 @@ Terima Kasih, Semoga kita semua sehat selalu.
 
 [https://github.com/kykurniawan](https://github.com/rizkyrizky)
 
-<hr />
+<hr/>
 
 
 ### aurelius
@@ -169,7 +169,7 @@ Halo , Nama saya aurelius Tinggal di Jakarta , Masih SMP , Saya Sangat Tertarik 
 
 [https://github.com/TRIPLEEE212](https://github.com/TRIPLEEE212)
 
-<hr />
+<hr/>
 
 ### Wisnu Prasetio
 
@@ -178,15 +178,15 @@ sangat menarik adalah pemrograman. Memulai belajar HTML CSS sejak 2019. Mulai me
 
 Saya ingin menjadi seorang programmer yang hebat dan pengusaha yang hebat. Skill yang saya miliki adalah JavaScript, Node JS, Express JS, React JS.
 Saat ini saya tengah belajar di Coding Bootcamp Arkademy sebagai Talent. Sedang mempelajari Redux dan tengah mengerjakan beberapa projeck.
-salah satunya adalah [https://bioskopnya-wisnu.herokuapp.com/](https://bioskopnya-wisnu.herokuapp.com/)
+salah satunya adalah [https://bioskopnya-wisnu.herokuapp.com/](https://bioskopnya-wisnu.herokuapp.com/) 
 
 Saya punya mimpi untuk bisa menjadi seorang Programmer yang bekerja di luar negeri seperti mas Eka, bahkan saya ingin bisa lebih dari mas Eka, hehe.
-Dan pada 2 tahun yang akan datang, saya ingin membangun perusahaan yang bergerak di bidak IT Pendidikan. Saya berharap semoga tulisan saya ini bisa menjadi langkah awal untuk mencapai mimpi saya tersebut. Semangat Berproses!
+Dan pada 2 tahun yang akan datang, saya ingin membangun perusahaan yang bergerak di bidak IT Pendidikan. Saya berharap semoga tulisan saya ini bisa menjadi langkah awal untuk mencapai mimpi saya tersebut. Semangat Berproses! 
 
 
 [https://github.com/prasetioad](https://github.com/prasetioad)
 
-<hr />
+<hr/>
 
 ### Cecep Maulana
 
@@ -195,7 +195,7 @@ Terimakasih Mas Eka sudah membuat Saya makin termotivasi lagi untuk menjadi seor
 
 [https://github.com/tiyoy](https://github.com/tiyoy)
 
-<hr />
+<hr/>
 
 ### M Iksan Arifki
 
@@ -203,7 +203,7 @@ Hai, perkenalkan Nama saya Mohammad Iksan Arifki dari Surabaya, Saat ini saya ma
 bahasa yang saya pakai c++, python, java
 https://github.com/IksanArifki27
 
-<hr />
+<hr/>
 
 ### Tommy Alhamra
 
@@ -213,7 +213,7 @@ Petualangan saya baru dimulai di tahun ini 2021. Doakan saya agar bisa sampai ke
 
 [https://github.com/imotD](https://github.com/imotD)
 
-<hr />
+<hr/>
 
 ### Feri Lukmansyah
 
@@ -223,7 +223,7 @@ system operasi yang saya pakai adalah [Arch Linux](https://archlinux.org/), saya
 
 [https://github.com/perymerdeka/](https://github.com/perymerdeka/)
 
-<hr />
+<hr/>
 
 ### Billy Franscois
 
@@ -234,7 +234,7 @@ Saya memulai programming dari tahun 2020 dan sudah setengah tahun saya lalui dal
 
 [https://github.com/BillyFrcs](https://github.com/BillyFrcs)
 
-<hr />
+<hr/>
 
 
 ### Rohmat Ass`ari
@@ -243,9 +243,9 @@ Hai semua, Salam Kenal ikut coba mempraktikan dari content youtube UpKoding
 
 
 ```go
-func main() {
-fmt.Println("Terimaksih, UpKoding")
-}
+  func main() {
+	  fmt.Println("Terimaksih, UpKoding")
+  }
 
 ```
 <hr />
@@ -253,7 +253,7 @@ fmt.Println("Terimaksih, UpKoding")
 ### Muhammad Iqbal 🎓
 
 
-Salam kenal saya Muhammad Iqbal hanya programmer biasa yang sangat suka belajar hal baru dan bereksperimen dengan banyak ide
+Salam kenal saya Muhammad Iqbal hanya programmer biasa yang sangat suka belajar hal baru dan bereksperimen dengan banyak ide 
 saat ini sedang mendalami analisis data bagaimana sebuah data dapat memiliki banyak informasi yang berharga dan mempengaruhi dunia ini sangat menarik
 
 bahasa yang saya sukai adalah python sebuah bahasa yang sederhana tapi didukung oleh library opensource yang sangat banyak dimana seluruh dunia berkontribusi
@@ -262,22 +262,22 @@ dan saya ingin ikut berkontribusi
 
 [https://github.com/muhiqsimui](https://github.com/muhiqsimui)
 
-<hr />
+<hr/>
 
 ### Amanudin Harahap
 
-Hi saya Amanudin dari Medan, saya merupakan mahasiswa Universitas Budidarma jurusan Teknik Informatika. Sekarang saya sudah menempuh semester 6.
+Hi saya Amanudin dari Medan, saya merupakan mahasiswa Universitas Budidarma jurusan Teknik Informatika. Sekarang saya sudah menempuh semester 6. 
 
 Saya sangat tertarik dengan dunia programming. Saya memiliki pengalaman development menggunakan stack Javascript
 
 > React JS
-> Express JS
+> Express JS 
 > Mongo DB
 > Laravel
 
 [https://github.com/AmanHrp10](https://github.com/AmanHrp10)
 
-<hr />
+<hr/>
 
 ### Adi Munawar Kamil
 
@@ -287,7 +287,7 @@ Hi saya Adi Munawar Kamil dari Tasikmalaya,salam kenal semuanya, saya sekarang b
 
 [https://github.com/adimunawar](https://github.com/adimunawar)
 
-<hr />
+<hr/>
 
 ### Edwin Samodra Pratama
 
@@ -302,20 +302,20 @@ Ingin dan sedang belajar :
 
 Mari terhubung denganku melalui [GITHUB](https://github.com/edwinsamodra)
 
-<hr />
+<hr/>
 
 ### Umar
 Software Enginer | Tech Enthusiast
 
 ```go
-func main() {
-var message string = "Assalamual'aikum every body"
-fmt.Println(message)
-}
+  func main() {
+      var message string = "Assalamual'aikum every body"
+      fmt.Println(message)
+  }
 ```
 [https://github.com/umardevid](https://github.com/umardevid)
 
-<hr />
+<hr/>
 
 ### Ardhi Putra
 
@@ -324,35 +324,35 @@ Saat ini saya masih menjadi seorang pelajar yang masuk ke jurusan SIJA, kalau mi
 
 ```python
 while age < live:
-doBetter()
-age += 1
+	doBetter()
+	age += 1
 ```
 
 [https://github.com/ardhptr21](https://github.com/ardhptr21)
 
-<hr />
+<hr/>
 
 ### Muhamad Hamdanil
 
-Halo Mas Eka (@ekaputra07), halo semuanya dan selam kenal, saya Daniel dari Lombok, NTB. Saya baru-baru ini sedang belajar FrontEnd, dan suka ikut di acara-acara komunitas khususnya IT, dan alhamdulillah ketemu sama repo ini bersyukur sekali.
+Halo Mas Eka (@ekaputra07), halo semuanya dan selam kenal, saya Daniel dari Lombok, NTB. Saya baru-baru ini sedang belajar FrontEnd, dan suka ikut di acara-acara komunitas khususnya IT, dan alhamdulillah ketemu sama repo ini bersyukur sekali. 
 
 Semoga saya bisa ikut berkontribusi dan berkolaborasi dengan baik bersama teman-teman semua.
 
 [https://github.com/ahadsenja](https://github.com/ahadsenja)
 
-<hr />
+<hr/>
 
 ### Muhamad Al Hiqny Bil Abror
 
 Hallo Semuanya 👋, Nama lengkap saya Muhamad Al Hiqny Bil Abror, biar singkat panggil saja Al, hehe singkat kan? saya lahir di Cirebon tahun 2004 dan sampai sekarang masih Tinggal di Cirebon.
 
-Apa yang sedang saya pelajari sekarang?
-- PHP / Codeigniter
-- Javascript
-- Node js
+Apa yang sedang saya pelajari sekarang? 
+  - PHP / Codeigniter
+  - Javascript
+  - Node js
 
 Terimaksih [mas Eka](https://github.com/ekaputra07) sudah membuat repo untuk belajar berkontribusi digithub
 
 follow me : [Alhiqny404](https://github.com/Alhiqny)
 
-<hr />
+<hr/>
