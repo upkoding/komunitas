@@ -356,3 +356,11 @@ Terimaksih [mas Eka](https://github.com/ekaputra07) sudah membuat repo untuk bel
 follow me : [Alhiqny404](https://github.com/Alhiqny)
 
 <hr/>
+
+### Dendi Prayogo Hidayat
+
+Hallo temen-temen nama saya dendi, saya senang di dunia bahasa pemrograman dan sedang mendalami Kotlin.
+Apabila temen-temen ada yang mau sharing bareng, boleh yuk!.
+[https://github.com/xdendix](https://github.com/xdendix)
+
+</hr>
