@@ -363,4 +363,16 @@ Hallo temen-temen nama saya dendi, saya senang di dunia bahasa pemrograman dan s
 Apabila temen-temen ada yang mau sharing bareng, boleh yuk!.
 [https://github.com/xdendix](https://github.com/xdendix)
 
-</hr>
+<hr>
+
+### Aghniya Ni'amillah Nurhilman
+
+Hai semua !!. Panggil saya aghni, saya berasal dari Majalengka namun saat ini berdomisili di Bandung karena bekerja di Kota Kembang ini sebagai **Backend Developer** di salah satu perusahaan  (Masih Junior). 
+Terimakasih mas Eka, Senang bisa tau **UpKoding** dan sangat berharap bisa berkontribusi lebih kedepannya.. 
+
+
+Silahkan di lihat lihat, masih berantakan tapi akan ada sesuatu yang besar pada masa mendatang :)
+
+[https://github.com/Aghniyan](https://github.com/Aghniyan)
+
+<hr>
