@@ -376,3 +376,12 @@ Silahkan di lihat lihat, masih berantakan tapi akan ada sesuatu yang besar pada 
 [https://github.com/Aghniyan](https://github.com/Aghniyan)
 
 <hr>
+
+### Suluh Sulistiawan
+
+Halo, kenalin aku Suluh Sulistiawan; seorang pengembang web, petualang teknologi, dan penikmat kopi luwak.<br />
+Engga terlalu ngerti desain, tapi bisa lah bikin mata pengguna adem.
+
+[https://github.com/sooluh](https://github.com/sooluh)
+
+<hr>
