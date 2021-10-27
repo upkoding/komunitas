@@ -139,7 +139,7 @@ Hai, Saya M.Hidayatullah Dari Lombok NTB, Saat ini masih kuliah di salah satu pe
 
 ### Moch Shandy Tsalasa Putra
 
-Halo, nama saya Moch Shandy Tsalasa Putra. Asal dari Sidoarjo dan sekarang mahasiswa terakhir di salah satu universitas swasta di Malang. Kesibukan saat ini mengerjakan skripsi dan bekerja sebagai Teaching Assistant di Pacmann.ai. Kalau di waktu senggang, saya suka baca - baca paper akademis atau artikel yang terbaru, terutama di bidang Artifical Intelligence. Saya memiliki *research interest* di bidang Machine Learning, Computer Vision dan Medical Imaging.
+Halo, nama saya Moch Shandy Tsalasa Putra. Asal dari Sidoarjo dan sekarang mahasiswa terakhir di salah satu universitas swasta di Malang. Kesibukan saat ini mengerjakan skripsi dan bekerja sebagai Teaching Assistant di Pacmann.ai. Kalau di waktu senggang, saya suka baca - baca paper akademis atau artikel yang terbaru, terutama di bidang Artifical Intelligence. Saya memiliki _research interest_ di bidang Machine Learning, Computer Vision dan Medical Imaging.
 
 [https://github.com/shandytp](https://github.com/shandytp)
 
@@ -147,7 +147,7 @@ Halo, nama saya Moch Shandy Tsalasa Putra. Asal dari Sidoarjo dan sekarang mahas
 
 ### Hasan Ikhtiarta
 
-Hai! Perkenalkan nama saya Hasan Ikhtiarta dari Bogor. Sekarang aktif sebagai Backend Developer di salah satu perusahaan IT swasta di Jakarta. Saya memiliki ketertarikan untuk aktif dan berkembang di pengembangan aplikasi web dan mobile. Terima kasih untuk Mas Eka Putra atas materi yang diberikan di channel UpKoding, sangat membantu sekali. Sukses terus untuk kita semua! Aamiin. 
+Hai! Perkenalkan nama saya Hasan Ikhtiarta dari Bogor. Sekarang aktif sebagai Backend Developer di salah satu perusahaan IT swasta di Jakarta. Saya memiliki ketertarikan untuk aktif dan berkembang di pengembangan aplikasi web dan mobile. Terima kasih untuk Mas Eka Putra atas materi yang diberikan di channel UpKoding, sangat membantu sekali. Sukses terus untuk kita semua! Aamiin.
 
 [https://github.com/hikhtiarta27](https://github.com/hikhtiarta27)
 
@@ -163,8 +163,8 @@ Terima Kasih, Semoga kita semua sehat selalu.
 
 <hr/>
 
-
 ### aurelius
+
 Halo , Nama saya aurelius Tinggal di Jakarta , Masih SMP , Saya Sangat Tertarik dengan IT terutama Ethical hacking dan Programming, Bahasa Programming yang saya pakai adalah C, C++ dan Python
 
 [https://github.com/TRIPLEEE212](https://github.com/TRIPLEEE212)
@@ -178,11 +178,10 @@ sangat menarik adalah pemrograman. Memulai belajar HTML CSS sejak 2019. Mulai me
 
 Saya ingin menjadi seorang programmer yang hebat dan pengusaha yang hebat. Skill yang saya miliki adalah JavaScript, Node JS, Express JS, React JS.
 Saat ini saya tengah belajar di Coding Bootcamp Arkademy sebagai Talent. Sedang mempelajari Redux dan tengah mengerjakan beberapa projeck.
-salah satunya adalah [https://bioskopnya-wisnu.herokuapp.com/](https://bioskopnya-wisnu.herokuapp.com/) 
+salah satunya adalah [https://bioskopnya-wisnu.herokuapp.com/](https://bioskopnya-wisnu.herokuapp.com/)
 
 Saya punya mimpi untuk bisa menjadi seorang Programmer yang bekerja di luar negeri seperti mas Eka, bahkan saya ingin bisa lebih dari mas Eka, hehe.
-Dan pada 2 tahun yang akan datang, saya ingin membangun perusahaan yang bergerak di bidak IT Pendidikan. Saya berharap semoga tulisan saya ini bisa menjadi langkah awal untuk mencapai mimpi saya tersebut. Semangat Berproses! 
-
+Dan pada 2 tahun yang akan datang, saya ingin membangun perusahaan yang bergerak di bidak IT Pendidikan. Saya berharap semoga tulisan saya ini bisa menjadi langkah awal untuk mencapai mimpi saya tersebut. Semangat Berproses!
 
 [https://github.com/prasetioad](https://github.com/prasetioad)
 
@@ -236,11 +235,9 @@ Saya memulai programming dari tahun 2020 dan sudah setengah tahun saya lalui dal
 
 <hr/>
 
-
 ### Rohmat Ass`ari
 
 Hai semua, Salam Kenal ikut coba mempraktikan dari content youtube UpKoding
-
 
 ```go
   func main() {
@@ -248,12 +245,12 @@ Hai semua, Salam Kenal ikut coba mempraktikan dari content youtube UpKoding
   }
 
 ```
+
 <hr />
 
 ### Muhammad Iqbal 🎓
 
-
-Salam kenal saya Muhammad Iqbal hanya programmer biasa yang sangat suka belajar hal baru dan bereksperimen dengan banyak ide 
+Salam kenal saya Muhammad Iqbal hanya programmer biasa yang sangat suka belajar hal baru dan bereksperimen dengan banyak ide
 saat ini sedang mendalami analisis data bagaimana sebuah data dapat memiliki banyak informasi yang berharga dan mempengaruhi dunia ini sangat menarik
 
 bahasa yang saya sukai adalah python sebuah bahasa yang sederhana tapi didukung oleh library opensource yang sangat banyak dimana seluruh dunia berkontribusi
@@ -266,12 +263,12 @@ dan saya ingin ikut berkontribusi
 
 ### Amanudin Harahap
 
-Hi saya Amanudin dari Medan, saya merupakan mahasiswa Universitas Budidarma jurusan Teknik Informatika. Sekarang saya sudah menempuh semester 6. 
+Hi saya Amanudin dari Medan, saya merupakan mahasiswa Universitas Budidarma jurusan Teknik Informatika. Sekarang saya sudah menempuh semester 6.
 
 Saya sangat tertarik dengan dunia programming. Saya memiliki pengalaman development menggunakan stack Javascript
 
 > React JS
-> Express JS 
+> Express JS
 > Mongo DB
 > Laravel
 
@@ -283,8 +280,6 @@ Saya sangat tertarik dengan dunia programming. Saya memiliki pengalaman developm
 
 Hi saya Adi Munawar Kamil dari Tasikmalaya,salam kenal semuanya, saya sekarang bekerja sebagai Network Engineer, tapi sejak masa kuliah saya seneng dengan programming, saya mulai belajar programming itu menggunakan php, css, javascript, dan sekarang saya sedang fokus belajar mobile programming yaitu flutter, semoga kedepannya saya bisa bekerja sesuai dengan apa yang saya suakai.
 
-
-
 [https://github.com/adimunawar](https://github.com/adimunawar)
 
 <hr/>
@@ -294,6 +289,7 @@ Hi saya Adi Munawar Kamil dari Tasikmalaya,salam kenal semuanya, saya sekarang b
 Halo, kenalin aku Edwin Samodra Pratama, sekarang sedang belajar tentang Laravel dan segala sesuatu tentang **Open Source**. Saya juga suka hiking dan backpacker karena dengan melakukan kegiatan itu aku jadi merasa hidup!
 
 Ingin dan sedang belajar :
+
 - PHP
 - Java
 - Javascript
@@ -305,6 +301,7 @@ Mari terhubung denganku melalui [GITHUB](https://github.com/edwinsamodra)
 <hr/>
 
 ### Umar
+
 Software Enginer | Tech Enthusiast
 
 ```go
@@ -313,6 +310,7 @@ Software Enginer | Tech Enthusiast
       fmt.Println(message)
   }
 ```
+
 [https://github.com/umardevid](https://github.com/umardevid)
 
 <hr/>
@@ -334,7 +332,7 @@ while age < live:
 
 ### Muhamad Hamdanil
 
-Halo Mas Eka (@ekaputra07), halo semuanya dan selam kenal, saya Daniel dari Lombok, NTB. Saya baru-baru ini sedang belajar FrontEnd, dan suka ikut di acara-acara komunitas khususnya IT, dan alhamdulillah ketemu sama repo ini bersyukur sekali. 
+Halo Mas Eka (@ekaputra07), halo semuanya dan selam kenal, saya Daniel dari Lombok, NTB. Saya baru-baru ini sedang belajar FrontEnd, dan suka ikut di acara-acara komunitas khususnya IT, dan alhamdulillah ketemu sama repo ini bersyukur sekali.
 
 Semoga saya bisa ikut berkontribusi dan berkolaborasi dengan baik bersama teman-teman semua.
 
@@ -346,10 +344,11 @@ Semoga saya bisa ikut berkontribusi dan berkolaborasi dengan baik bersama teman-
 
 Hallo Semuanya 👋, Nama lengkap saya Muhamad Al Hiqny Bil Abror, biar singkat panggil saja Al, hehe singkat kan? saya lahir di Cirebon tahun 2004 dan sampai sekarang masih Tinggal di Cirebon.
 
-Apa yang sedang saya pelajari sekarang? 
-  - PHP / Codeigniter
-  - Javascript
-  - Node js
+Apa yang sedang saya pelajari sekarang?
+
+- PHP / Codeigniter
+- Javascript
+- Node js
 
 Terimaksih [mas Eka](https://github.com/ekaputra07) sudah membuat repo untuk belajar berkontribusi digithub
 
@@ -367,9 +366,8 @@ Apabila temen-temen ada yang mau sharing bareng, boleh yuk!.
 
 ### Aghniya Ni'amillah Nurhilman
 
-Hai semua !!. Panggil saya aghni, saya berasal dari Majalengka namun saat ini berdomisili di Bandung karena bekerja di Kota Kembang ini sebagai **Backend Developer** di salah satu perusahaan  (Masih Junior). 
-Terimakasih mas Eka, Senang bisa tau **UpKoding** dan sangat berharap bisa berkontribusi lebih kedepannya.. 
-
+Hai semua !!. Panggil saya aghni, saya berasal dari Majalengka namun saat ini berdomisili di Bandung karena bekerja di Kota Kembang ini sebagai **Backend Developer** di salah satu perusahaan (Masih Junior).
+Terimakasih mas Eka, Senang bisa tau **UpKoding** dan sangat berharap bisa berkontribusi lebih kedepannya..
 
 Silahkan di lihat lihat, masih berantakan tapi akan ada sesuatu yang besar pada masa mendatang :)
 
@@ -383,5 +381,15 @@ Halo, kenalin aku Suluh Sulistiawan; seorang pengembang web, petualang teknologi
 Engga terlalu ngerti desain, tapi bisa lah bikin mata pengguna adem.
 
 [https://github.com/sooluh](https://github.com/sooluh)
+
+<hr>
+
+<hr>
+
+### Azwan Nurfadhillah
+
+Halo, aku Azwan Nurfadhillah, biasa dipanggil azwan. Aku mahasiswa yang suka sama hal baru dan menantang. aku suka memacu ilmu ku untuk lebih jauh lagi<br />
+
+[https://github.com/AzwanNF](https://github.com/AzwanNF)
 
 <hr>
