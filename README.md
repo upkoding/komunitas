@@ -406,6 +406,6 @@ Apa yang sedang saya pelajari sekarang?
 
 Terimaksih saya ucapkan kepada Bli eka dan juga staf upkoding. 
 
-Dan Jangan Lupa follow ya : my account [Teddi](https://github.com/Teddir) dan juga [Bli Eka](https://github.com/ekaputra07)	
+Dan Jangan Lupa follow ya : my account [Teddi](https://github.com/Teddir) dan juga [Bli Eka](https://github.com/ekaputra07) <br />
 #jangaLupaBismillah
 <hr/>
