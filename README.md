@@ -404,7 +404,7 @@ Apa yang sedang saya pelajari sekarang?
 - UI UX Design
 - Dart ( otw )
 
-Terimaksih saya ucapkan kepada Bli eka dan juga staf upkoding. 
+Terimakasih saya ucapkan kepada Bli eka dan juga staf upkoding karena telah meluangkan waktunya untuk berbagi ilmu.  
 
 Dan Jangan Lupa follow ya : my account [Teddi](https://github.com/Teddir) dan juga [Bli Eka](https://github.com/ekaputra07) <br />
 ``` 
