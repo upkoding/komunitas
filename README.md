@@ -393,3 +393,23 @@ Halo, aku Azwan Nurfadhillah, biasa dipanggil azwan. Aku mahasiswa yang suka sam
 [https://github.com/AzwanNF](https://github.com/AzwanNF)
 
 <hr>
+
+### Teddi Rahman
+
+Hallo Semuanya 👋, Nama lengkap saya Teddi Rahman, saya lahir di Bali/Karangasem.
+
+Apa yang sedang saya pelajari sekarang?
+
+- PHP
+- UI UX Design
+- Dart ( otw )
+
+Terimakasih saya ucapkan kepada Bli eka dan juga staf upkoding karena telah meluangkan waktunya untuk berbagi ilmu.  
+
+Dan Jangan Lupa follow ya : my account [Teddi](https://github.com/Teddir) dan juga [Bli Eka](https://github.com/ekaputra07) <br />
+``` 
+#jangaLupaBismillah
+#nomad_lengBali
+```
+
+<hr/>
