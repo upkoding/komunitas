@@ -413,3 +413,18 @@ Dan Jangan Lupa follow ya : my account [Teddi](https://github.com/Teddir) dan ju
 ```
 
 <hr/>
+
+### Endros
+Halo semuanya para programmer, Nama saya Endros.
+
+Apa yang sedang ingin di pelajari sekarang?
+
+- JavaScript
+- PHP
+- UI/UX
+
+Terimakasih Bli eka, untuk tips-tips dan motivasi dalam dunia programming.
+
+[https://github.com/endrose](https://github.com/endrose)
+
+<hr/>
