@@ -428,3 +428,11 @@ Terimakasih Bli eka, untuk tips-tips dan motivasi dalam dunia programming.
 [https://github.com/endrose](https://github.com/endrose)
 
 <hr/>
+
+### Ricky Rinaldy
+
+Halo Everyone, I'm still learning html,css,bootstrap and Python Django <br />
+
+If you wanna know what I just learned and maybe we can mutual friend and follow in my repository (https://github.com/ricky-blip)
+
+<hr/>
