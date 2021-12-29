@@ -436,3 +436,13 @@ Halo Everyone, I'm still learning html,css,bootstrap and Python Django <br />
 If you wanna know what I just learned and maybe we can mutual friend and follow in my repository (https://github.com/ricky-blip)
 
 <hr/>
+
+<hr/>
+
+### Putu Julianta
+
+Halo semuanya, perkenalkan saya Putu Julianta asal bali. Sedang minat belajar bahasa pemrograman dan baru memulai akhir tahun ini (2021). Bahasa pemrograman pertama yaitu Python. <br/>
+
+Kegiatan dan roadmap belajar saya di repository https://github.com/thujuli
+
+<hr/>
