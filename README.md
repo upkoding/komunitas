@@ -436,3 +436,17 @@ Halo Everyone, I'm still learning html,css,bootstrap and Python Django <br />
 If you wanna know what I just learned and maybe we can mutual friend and follow in my repository (https://github.com/ricky-blip)
 
 <hr/>
+
+### Yuke Brilliant Hestiavin
+
+Halo semuanya, saya yuke brilliant dari surabaya <br />
+Sekarang saya masih duduk di bangku SMA dan sedang 
+- memulai blog
+- mengembangkan aplikasi android (Financial App)
+- memulai usaha provider hosting dengan datacenter berada di USA, SGP, & JKT.
+- merencanakan Digital Agency
+
+Portfolio: [yukebrillianth.devs.id](https://yukebrillianth.devs.id/) <br/>
+Github: [https://github.com/yukebrillianth](https://github.com/yukebrillianth) <br/>
+Instagram: [@yukebrillianth](https://instagram.com/yukebrillianth) <br/>
+<hr/>
