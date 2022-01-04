@@ -449,4 +449,11 @@ Sekarang saya masih duduk di bangku SMA dan sedang
 Portfolio: [yukebrillianth.devs.id](https://yukebrillianth.devs.id/) <br/>
 Github: [https://github.com/yukebrillianth](https://github.com/yukebrillianth) <br/>
 Instagram: [@yukebrillianth](https://instagram.com/yukebrillianth) <br/>
+
 <hr/>
+
+### Putu Julianta
+
+Halo semuanya, perkenalkan saya Putu Julianta asal bali. Sedang minat belajar bahasa pemrograman dan baru memulai akhir tahun ini (2021). Bahasa pemrograman pertama yaitu Python. <br/>
+
+Kegiatan dan roadmap belajar saya di repository https://github.com/thujuli
