@@ -437,6 +437,19 @@ If you wanna know what I just learned and maybe we can mutual friend and follow 
 
 <hr/>
 
+### Yuke Brilliant Hestiavin
+
+Halo semuanya, saya yuke brilliant dari surabaya <br />
+Sekarang saya masih duduk di bangku SMA dan sedang 
+- memulai blog
+- mengembangkan aplikasi android (Financial App)
+- memulai usaha provider hosting dengan datacenter berada di USA, SGP, & JKT.
+- merencanakan Digital Agency
+
+Portfolio: [yukebrillianth.devs.id](https://yukebrillianth.devs.id/) <br/>
+Github: [https://github.com/yukebrillianth](https://github.com/yukebrillianth) <br/>
+Instagram: [@yukebrillianth](https://instagram.com/yukebrillianth) <br/>
+
 <hr/>
 
 ### Putu Julianta
@@ -444,5 +457,3 @@ If you wanna know what I just learned and maybe we can mutual friend and follow 
 Halo semuanya, perkenalkan saya Putu Julianta asal bali. Sedang minat belajar bahasa pemrograman dan baru memulai akhir tahun ini (2021). Bahasa pemrograman pertama yaitu Python. <br/>
 
 Kegiatan dan roadmap belajar saya di repository https://github.com/thujuli
-
-<hr/>
