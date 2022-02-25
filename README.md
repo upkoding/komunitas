@@ -473,3 +473,9 @@ Code is art, art is love, So Code is Love.
 Dedication of a Programmer
 
 GitHub : https://github.com/marwandhiaurrahman
+
+<hr/>
+
+### Miftakhul Aziz
+Halo semua perkenalkan saya Mifta, berprofesi sebagai backend & data engineer.
+GitHub : https://github.com/amifth
