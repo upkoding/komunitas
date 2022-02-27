@@ -479,3 +479,10 @@ GitHub : https://github.com/marwandhiaurrahman
 ### Miftakhul Aziz
 Halo semua perkenalkan saya Mifta, berprofesi sebagai backend & data engineer.
 GitHub : https://github.com/amifth
+
+<hr/>
+
+### Hendar
+Hallo, perkenalkan saya Hendar tertarik belajar bahasa pemograman PHP, Python, TypeScript & belajar menulis di blog [jawalabs.com](https://www.jawalabs.com/) mohon bimbingan dari semua & terima kasih.
+
+[https://github.com/okochunk](https://github.com/okochunk)
