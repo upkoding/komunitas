@@ -404,10 +404,11 @@ Apa yang sedang saya pelajari sekarang?
 - UI UX Design
 - Dart ( otw )
 
-Terimakasih saya ucapkan kepada Bli eka dan juga staf upkoding karena telah meluangkan waktunya untuk berbagi ilmu.  
+Terimakasih saya ucapkan kepada Bli eka dan juga staf upkoding karena telah meluangkan waktunya untuk berbagi ilmu.
 
 Dan Jangan Lupa follow ya : my account [Teddi](https://github.com/Teddir) dan juga [Bli Eka](https://github.com/ekaputra07) <br />
-``` 
+
+```
 #jangaLupaBismillah
 #nomad_lengBali
 ```
@@ -415,6 +416,7 @@ Dan Jangan Lupa follow ya : my account [Teddi](https://github.com/Teddir) dan ju
 <hr/>
 
 ### Endros
+
 Halo semuanya para programmer, Nama saya Endros.
 
 Apa yang sedang ingin di pelajari sekarang?
@@ -440,7 +442,8 @@ If you wanna know what I just learned and maybe we can mutual friend and follow 
 ### Yuke Brilliant Hestiavin
 
 Halo semuanya, saya yuke brilliant dari surabaya <br />
-Sekarang saya masih duduk di bangku SMA dan sedang 
+Sekarang saya masih duduk di bangku SMA dan sedang
+
 - memulai blog
 - mengembangkan aplikasi android (Financial App)
 - memulai usaha provider hosting dengan datacenter berada di USA, SGP, & JKT.
@@ -460,7 +463,8 @@ Kegiatan dan roadmap belajar saya di repository https://github.com/thujuli
 
 <hr/>
 
-###  Muhammad Wildan Fadhilah
+### Muhammad Wildan Fadhilah
+
 Halo temen-temen semua, saya Muhammad Wildan Fadhilah dari Tangerang Selatan. Sekarang lagi belajar SQL, sambil pelajarin git juga. Might go for javascript karena udah pernah belajar juga sekalian ngejar minat jadi backend.  
 Yang mau ngobrol santai, yuk mutualan!
 
@@ -468,7 +472,8 @@ GitHub : https://github.com/wildanfhd
 
 <hr/>
 
-###  Marwan Dhiaur Rahman
+### Marwan Dhiaur Rahman
+
 Code is art, art is love, So Code is Love.
 Dedication of a Programmer
 
@@ -477,12 +482,26 @@ GitHub : https://github.com/marwandhiaurrahman
 <hr/>
 
 ### Miftakhul Aziz
+
 Halo semua perkenalkan saya Mifta, berprofesi sebagai backend & data engineer.
 GitHub : https://github.com/amifth
 
 <hr/>
 
 ### Hendar
+
 Hallo, perkenalkan saya Hendar tertarik belajar bahasa pemograman PHP, Python, TypeScript & belajar menulis di blog [jawalabs.com](https://www.jawalabs.com/) mohon bimbingan dari semua & terima kasih.
 
 [https://github.com/okochunk](https://github.com/okochunk)
+
+<hr/>
+
+### Syarif Taufik Hidayatulloh
+
+Halo manteman, salam kenal saya syarif dari **Kalimantan Barat**. saya sedang kuliah semester akhir di **Universitas Ahmad Dahlan** jurusan **Teknik Informatika**. tertarik dengan dunia pemogramman karena sewaktu saya belajar bahasia asing di Pare Kediri saya dikenalkan teman saya dengan **HTML & CSS**.
+
+karena hal itu saya yang awalnya tidak tertarik untuk kuliah menjadi tertarik. saat ini saya sedang mendalami **Frontend** dengan menggunakan **Next js, SCSS, TailwindCss**. terimakasih **mas eka putra** untuk video nya.
+
+GitHub : https://github.com/PAPATIRI
+
+<hr/>
