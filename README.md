@@ -505,3 +505,11 @@ karena hal itu saya yang awalnya tidak tertarik untuk kuliah menjadi tertarik. s
 GitHub : https://github.com/PAPATIRI
 
 <hr/>
+
+### Galih Anggoro Prasetya
+
+Hai salam kenal, nama saya adalah galih anggoro prasetya, saya tinggal di jawa tengah kota tegal. Saat ini saya sedang fokus belajar pada bidang back end developer. Alasan saya belajar back end developer adalah karena saya suka yang namanya server, bagaimana sebuah program di hubungkan dengan database server mysql misalnya. Saya memiliki cita cita ingin menjadi seorang programmer seperti ayah saya, karena juga saya suka yang namanya komputer dan menimba ilmu pengembangan perangkat lunak komputer.
+
+[https://github.com/galihap76](https://github.com/galihap76)
+
+<hr/>
