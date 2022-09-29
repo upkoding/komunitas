@@ -375,17 +375,6 @@ Silahkan di lihat lihat, masih berantakan tapi akan ada sesuatu yang besar pada 
 
 <hr>
 
-### Suluh Sulistiawan
-
-Halo, kenalin aku Suluh Sulistiawan; seorang pengembang web, petualang teknologi, dan penikmat kopi luwak.<br />
-Engga terlalu ngerti desain, tapi bisa lah bikin mata pengguna adem.
-
-[https://github.com/sooluh](https://github.com/sooluh)
-
-<hr>
-
-<hr>
-
 ### Azwan Nurfadhillah
 
 Halo, aku Azwan Nurfadhillah, biasa dipanggil azwan. Aku mahasiswa yang suka sama hal baru dan menantang. aku suka memacu ilmu ku untuk lebih jauh lagi<br />
