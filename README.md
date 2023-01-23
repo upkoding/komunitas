@@ -502,3 +502,13 @@ Hai salam kenal, nama saya adalah galih anggoro prasetya, saya tinggal di jawa t
 [https://github.com/galihap76](https://github.com/galihap76)
 
 <hr/>
+
+### Muhammad Akmal Irfansyah
+
+Salam kenal, saya sekarang lulusan SMA dan tinggal di Solo. Saat ini saya sedang belajar HTML, CSS, JavaScript, PHP, Laravel, Vue.Js. Alasan saya belajar yaitu ingin berkarier di bidang Web Development. Saya juga memiliki rencana untuk belajar membuat aplikasi game suatu saat nanti.
+
+Terima kasih **mas eka putra** untuk video tutorial dan motivasinya, tetap semangat untuk berkarya dan semoga sukses selalu untuk kedepannya.
+
+GitHub : [https://github.com/akmalirf](https://github.com/akmalirf)
+
+<hr/>
