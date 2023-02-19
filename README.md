@@ -514,3 +514,16 @@ GitHub : [https://github.com/akmalirf](https://github.com/akmalirf)
 <hr/>
 
 ### Daffa Harizal Fitri
+
+Salam kenal, saya **Daffa Harizal Fitri** seorang **Frontend Engineer Enthusiast - React Framework** yang berasal dari **Palembang - Sumatera Selatan**.
+
+Alhamdulillah Saat ini dipercaya untuk menjadi Web Developer Intern pada **Unit Digitaliz** by **Hasnur Center**.
+
+Saat ini sedang tertaik mempelajari :
+- React.js & Next.js
+- Vue.js
+- Laravel
+
+Terima kasih Kepada **Mas Eka Putra** yang telah berkenan sharing akan ilmu & pengalamannya. Saya pribadi **belajar banyak** melalui UpKoding.
+
+My Github : [https://github.com/daffaharizal](https://github.com/daffaharizal)
