@@ -512,3 +512,5 @@ Terima kasih **mas eka putra** untuk video tutorial dan motivasinya, tetap seman
 GitHub : [https://github.com/akmalirf](https://github.com/akmalirf)
 
 <hr/>
+
+### Daffa Harizal Fitri
