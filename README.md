@@ -527,3 +527,15 @@ Saat ini sedang tertaik mempelajari :
 Terima kasih Kepada **Mas Eka Putra** yang telah berkenan sharing akan ilmu & pengalamannya. Saya pribadi **belajar banyak** melalui UpKoding.
 
 My Github : [https://github.com/daffaharizal](https://github.com/daffaharizal)
+
+<hr/>
+
+### Marzuki
+
+Salam kenal semua, saya Marzuki dan tinggal di Jakarta Timur. Saat ini sedang menekuni membuat static website menggunakan Jekyll. Alasan saya belajar karena ingin menjadi digital marketer menggunakan Github. Saya memiliki rencana untuk membuat aplikasi travel suatu saat nanti.
+
+Terima kasih kepada **Mas Eka Putra** untuk video tutorial dan motivasinya, serta memberikan kesempatan untuk belajar menjadi kontributor pada ***project open source***, tetap semangat untuk berkarya dan semoga sukses selalu untuk kedepannya.
+
+[https://github.com/utaramas](https://github.com/utaramas)
+
+<hr/>
