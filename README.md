@@ -544,7 +544,6 @@ Terima kasih kepada **Mas Eka Putra** untuk video tutorial dan motivasinya, sert
 
 Halo, nama saya **Fathir**. Saya seorang **Backend Engineer Enthusiast** yang senang bekerja dengan teknologi dan mempelajari hal-hal baru di bidang IT. Saat ini, saya sedang fokus belajar tentang beberapa teknologi seperti **TypeScript**, **PHP**, **ReactJS**, dan juga **GatbsyJS** untuk meningkatkan kemampuan dan pengalaman saya sebagai seorang developer. Saya selalu tertarik untuk belajar dan terus mengembangkan diri agar dapat memberikan solusi yang terbaik dan efektif untuk setiap proyek yang saya kerjakan.
 
-Terima kasih **Mas Eka Putra** yang telah memberikan saya motivasi. Sehat dan sukses selalu **Mas Eka Putra**.
 
 Github :[https://github.com/FatngatirBilek](https://github.com/FatngatirBilek)<br/>
 My Web :[https://FatngatirBilek.eu.org](https://FatngatirBilek.eu.org)<br/>
