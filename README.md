@@ -540,6 +540,19 @@ Terima kasih kepada **Mas Eka Putra** untuk video tutorial dan motivasinya, sert
 
 <hr/>
 
+### Fathir
+
+Halo, nama saya **Fathir**. Saya seorang **Backend Engineer Enthusiast** yang senang bekerja dengan teknologi dan mempelajari hal-hal baru di bidang IT. Saat ini, saya sedang fokus belajar tentang beberapa teknologi seperti **TypeScript**, **PHP**, **ReactJS**, dan juga **GatbsyJS** untuk meningkatkan kemampuan dan pengalaman saya sebagai seorang developer. Saya selalu tertarik untuk belajar dan terus mengembangkan diri agar dapat memberikan solusi yang terbaik dan efektif untuk setiap proyek yang saya kerjakan.
+
+
+Github :[https://github.com/FatngatirBilek](https://github.com/FatngatirBilek)<br/>
+My Web :[https://FatngatirBilek.eu.org](https://FatngatirBilek.eu.org)<br/>
+My Instagram :[@fathirbimashabri](https://instagram.com/fathirbimashabri/)<br/>
+
+<hr/>
+
+### Arif Siddik Muharam
+
 Hallo, Perkenalkan nama Saya **Arif Siddik Muharam**, seorang **Full Stack Web Developer** dari **Cilegon, Banten**. <br/>
 Kegiatan saat ini yaitu bekerja dan berkuliah. Saat ini Saya build web menggunakan CodeIgniter, ReactJS, MySQL, dan Saya juga sedang mempelajari Laravel serta React Native. <br/>
 Selain memiliki Web Portfolio, Saya memiliki web **[www.riplabs.id](https://riplabs.id)** dan **[www.cvmilenial.com](https://cvmilenial.com)** yang bisa teman-teman kunjungi dan gunakan.
