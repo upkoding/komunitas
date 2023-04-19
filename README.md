@@ -570,3 +570,13 @@ Instagram: [@arifsiddikm](https://instagram.com/arifsiddikm/) <br/>
 LinkedIn: [Arif Siddik Muharam](https://www.linkedin.com/in/arif-siddik-muharam/) <br/>
 
 <hr/>
+
+### Ken
+
+Salam kenal semua, saya bisa dipanggil **Ken**, saya ingin menjadi **UI/UX Developer** dan **Full Stack Web Developer** saya berasa dari Jakarta <br/>
+Saya sangat sengan untuk belajar mengenai hal baru dan terus mengimprove diri sendiri agar dapat memberikan kontribusi kepada dunia ini<br/>
+saya sekarang ingin memperdalam **Vue** dan **HTML,CSS,JS** serta **React**
+
+Github: [https://github.com/MoriMomo](https://github.com/MoriMomo) 
+
+<hr/>
