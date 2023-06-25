@@ -580,3 +580,16 @@ saya sekarang ingin memperdalam **Vue** dan **HTML,CSS,JS** serta **React**
 Github: [https://github.com/MoriMomo](https://github.com/MoriMomo) 
 
 <hr/>
+
+
+### Munajat
+
+Salam kenal semua, saya bisa dipanggil **Mun**, saya ingin menjadi **Web Developer** dan **Full Stack Web Developer** saya berasa dari Indramayu, Jawa Barat <br/>
+setelah terjun di bidang ini semakin merasa bodoh, masih banyak hal yang saya harus pelajari dengan komitment dan disiplin diri semoga bisa menjadi web developer yang handal<br/>
+saya lagi asik bermain menggunakan **React** dan suka ngoprek linux khususnya turunan ubuntu yaitu lubuntu dan xubuntu, setelah 1 tahun menggunaan linux udah males menggunakan windows, jika setup proyek  di linux mempunyai tantangan sendiri ketimbang setup menggunakan windows. 
+
+untuk diskusi mengenai linux dan web developer bisa hubungi saya menggunakan linkedin link tertera dibawah.
+LinkedIn: [Munajat](https://www.linkedin.com/in/bymunajat/) <br/>
+Github: [https://github.com/bymunajat](https://github.com/bymunajat) 
+
+<hr/>
